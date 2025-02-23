@@ -17,11 +17,14 @@ Don't leave the app to get your music; a music player is integrated into the app
 FastnFitness is a modern and efficient fitness tracking application designed to help users achieve their health and workout goals. With an intuitive interface and powerful features, it simplifies workout planning, progress tracking, and performance analysis.
 
 ## Features
-## Personalized Workout Plans  
+Personalized Workout Plans : 
 Tailored exercise routines based on user preferences and fitness levels.
-Real-Time Progress Tracking – Monitor workout history, calories burned, and performance improvements.
-Goal Setting & Reminders – Set fitness goals and receive timely reminders to stay on track.
-Analytics & Insights – Gain deep insights into workout efficiency with detailed reports and visualizations.
+Real-Time Progress Tracking :
+Monitor workout history, calories burned, and performance improvements.
+Goal Setting & Reminders :
+Set fitness goals and receive timely reminders to stay on track.
+Analytics & Insights :
+Gain deep insights into workout efficiency with detailed reports and visualizations.
 
 ## Why Choose FastnFitness?
 User-friendly and visually appealing UI/UX.
@@ -31,7 +34,8 @@ Designed for beginners and fitness enthusiasts alike.
 
 ## Development : 
 
-For development, [Android Studio](https://developer.android.com/studio/) with [gradle](https://gradle.org/) is used. If you want to develop and contribute, the easiest way is to use Android Studio as well.
+For development, [Android Studio](https://developer.android.com/studio/) with [gradle](https://gradle.org/) is used. 
+If you want to develop and contribute, the easiest way is to use Android Studio as well.
 
 1. Fork the project on GitHub.
 2. Clone it within Android Studio or a Git Bash:
