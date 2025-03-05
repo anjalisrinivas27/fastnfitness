@@ -58,4 +58,7 @@ If you want to develop and contribute, the easiest way is to use Android Studio 
 
 ## CHANGE LOG
 
+
+
+
 See [CHANGELOG.md](/CHANGELOG.md/)
