@@ -30,7 +30,9 @@ Goal Setting & Reminders :
 Set fitness goals and receive timely reminders to stay on track.
 
 Analytics & Insights :
+
 Gain deep insights into workout efficiency with detailed reports and visualizations.
+
 
 ## Why Choose FastnFitness?
 User-friendly and visually appealing UI/UX.
