@@ -67,7 +67,7 @@ If you want to develop and contribute, the easiest way is to use Android Studio 
 
 7. File -> Sync Project with Gradle Files
 
-## CHANGE LOG
+## CHANGE THE LOG
 
 
 
