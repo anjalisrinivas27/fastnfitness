@@ -33,7 +33,6 @@ Analytics & Insights :
 
 Gain deep insights into workout efficiency with detailed reports and visualizations.
 
-
 ## Why Choose FastnFitness?
 User-friendly and visually appealing UI/UX.
 Lightweight and optimized for smooth performance.
@@ -68,7 +67,6 @@ If you want to develop and contribute, the easiest way is to use Android Studio 
 7. File -> Sync Project with Gradle Files
 
 ## CHANGE THE LOG
-
 
 
 
