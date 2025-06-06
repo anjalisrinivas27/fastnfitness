@@ -19,6 +19,7 @@ FastnFitness is a modern and efficient fitness tracking application designed to 
 With an intuitive interface and powerful features, it simplifies workout planning, progress tracking, and performance analysis.
 
 ## Features
+
 Personalized Workout Plans : 
 
 Tailored exercise routines based on user preferences and fitness levels.
