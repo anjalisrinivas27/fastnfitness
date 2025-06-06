@@ -14,6 +14,7 @@ Graphics will show your progress and your body evolution.
 Don't leave the app to get your music; a music player is integrated into the app!
 
 ## Overview
+
 FastnFitness is a modern and efficient fitness tracking application designed to help the users achieve their health and workout goals.
 
 With an intuitive interface and powerful features, it simplifies workout planning, progress tracking, and performance analysis.
