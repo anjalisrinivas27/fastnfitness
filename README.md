@@ -38,6 +38,7 @@ Analytics & Insights :
 Gain deep insights into workout efficiency with detailed reports and visualizations.
 
 ## Why Choose FastnFitness?
+
 User-friendly and visually appealing UI/UX.
 Lightweight and optimized for smooth performance.
 Designed for beginners and fitness enthusiasts alike.
