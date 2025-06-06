@@ -49,6 +49,7 @@ If you want to develop and contribute, the easiest way is to use Android Studio 
 1. Fork the project on GitHub.
 
 2. Clone it within Android Studio or a Git Bash:
+
     1. From the Welcome Screen: Check out project from Version Control -> Git
     1. Or from within Android Studio: File -> New -> Project from version control -> Git
     2. Log in to GitHub... -> Create API Token -> Enter your username and password from your GitHub account
