@@ -56,7 +56,9 @@ If you want to develop and contribute, the easiest way is to use Android Studio 
     3. Add the URL of your forked project in „Git Repository URL“
     4. Clone
 
-3. Click **No** on the next dialog: `Would you like to create an Android Studio project for the sources you have checked out to [...]`
+3. Click **No** on the next dialog: 
+
+`Would you like to create an Android Studio project for the sources you have checked out to [...]`
 
 4. Then open an existing Android Studio project:
     1. From the Welcome Screen: Open an existing Android Studio project
